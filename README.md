@@ -2,6 +2,7 @@
 
 ## BUGS/JAGS
 * [Doing Bayesian Data Analysis](http://amzn.to/2xsoY0U) (book) by John Kruschke
+  * [PyMC3 code](https://github.com/aloctavodia/Doing_bayesian_data_analysis) by Osvaldo Martin
 1. What's in This Book
 2. Introduction: Credibility, Models, and Parameters
 3. The R Programming Language
@@ -27,13 +28,13 @@
 23. Ordinal Predicted Variable
 24. Count Predicted Variable
 25. Tools in the Trunk
-  * [PyMC3 code](https://github.com/aloctavodia/Doing_bayesian_data_analysis) by Osvaldo Martin
 
 ## PyMC3
 * [Getting Started](https://pymc-devs.github.io/pymc3/notebooks/getting_started.html) at PyMC3
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/quantopian/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by Cameron Davidson-Pilon et al.
 * [While My MCMC Gently Samples](http://twiecki.github.io) by Thomas Wiecki
 * [Bayesian Analysis with Python](http://amzn.to/2wjjwx6) (book) by Osvaldo Martin
+  * [Jupyter Notebooks](https://github.com/PacktPublishing/Bayesian-Analysis-with-Python.git)
 1. Thinking Probabilistically
 2. Programming Probabilistically - A PyMC3 Primer
 3. Juggling with Multi-Parametric and Hierarchical Models
@@ -42,7 +43,6 @@
 6. Model Comparison
 7. Mixture Models
 8. Gaussian Processes
-  * [Jupyter Notebooks](https://github.com/PacktPublishing/Bayesian-Analysis-with-Python.git)
 
 ## Stan
 * [Statistical Rethinking](http://amzn.to/2wjrCrh) by Richard McElreath
